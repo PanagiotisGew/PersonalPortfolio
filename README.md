@@ -32,5 +32,9 @@ Modify the content in the HTML files to tailor the portfolio to your details. Re
 Contributing
 Contributions are welcome! Whether it's suggesting improvements or reporting bugs, you can open an issue or create a pull request to actively participate in the development of this portfolio.
 
+![image](https://github.com/PanagiotisGew/PersonalPortfolio/assets/147500010/9a2b5fb8-8e4b-471e-b704-4b6cae0d712a)
+![image](https://github.com/PanagiotisGew/PersonalPortfolio/assets/147500010/7b21097f-37ea-4f2e-ae96-3849259013ca)
+
+
 Feel free to use the project for yourself. You just have to change the personal info and add a data base into the contact form for you.
 
