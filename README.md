@@ -1,6 +1,6 @@
 # PersonalPortfolio
 
-##Author: Panagiotis Georgiadis
+## Author: Panagiotis Georgiadis
 
 ## This personal portfolio is a showcase of my skills, education, and projects, providing visitors with a comprehensive overview of who I am and what I can offer. Designed with a clean and modern aesthetic, the portfolio is not only visually appealing but also user-friendly, ensuring a seamless experience for anyone exploring my professional profile.
 
