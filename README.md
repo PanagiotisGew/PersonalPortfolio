@@ -34,6 +34,13 @@ Contributions are welcome! Whether it's suggesting improvements or reporting bug
 
 ![image](https://github.com/PanagiotisGew/PersonalPortfolio/assets/147500010/9a2b5fb8-8e4b-471e-b704-4b6cae0d712a)
 ![image](https://github.com/PanagiotisGew/PersonalPortfolio/assets/147500010/7b21097f-37ea-4f2e-ae96-3849259013ca)
+![image](https://github.com/PanagiotisGew/PersonalPortfolio/assets/147500010/a438a588-f82a-49af-8c31-f4d6ca4bfee8)
+![image](https://github.com/PanagiotisGew/PersonalPortfolio/assets/147500010/7a607190-a4f2-4f93-b492-c774f6093a61)
+![image](https://github.com/PanagiotisGew/PersonalPortfolio/assets/147500010/8eca7d4d-5837-4657-b496-300d5c7df4df)
+![image](https://github.com/PanagiotisGew/PersonalPortfolio/assets/147500010/cb786a2c-0a4d-4224-b70b-669b5a9fb54f)
+
+And more...
+
 
 
 Feel free to use the project for yourself. You just have to change the personal info and add a data base into the contact form for you.
