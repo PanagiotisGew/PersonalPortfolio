@@ -2,9 +2,9 @@
 
 ## Author: Panagiotis Georgiadis
 
-## This personal portfolio is a showcase of my skills, education, and projects, providing visitors with a comprehensive overview of who I am and what I can offer. Designed with a clean and modern aesthetic, the portfolio is not only visually appealing but also user-friendly, ensuring a seamless experience for anyone exploring my professional profile.
+### This personal portfolio is a showcase of my skills, education, and projects, providing visitors with a comprehensive overview of who I am and what I can offer. Designed with a clean and modern aesthetic, the portfolio is not only visually appealing but also user-friendly, ensuring a seamless experience for anyone exploring my professional profile.
 
-##Key Features
+### Key Features
 
 1) Responsive Design: The portfolio is built with a responsive layout, ensuring a consistent and optimal viewing experience across various devices, including desktops, tablets, and smartphones.
 
