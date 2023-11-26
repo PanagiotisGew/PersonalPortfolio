@@ -20,7 +20,9 @@ Technologies Used
 The portfolio is developed using the following technologies:
 
 HTML5: Structuring the content of the portfolio.
+
 CSS3: Styling and enhancing the visual presentation.
+
 JavaScript: Adding interactivity and dynamic elements to the portfolio.
 
 Getting Started
